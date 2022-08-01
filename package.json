@@ -1,7 +1,7 @@
 {
-  "name": "ascii-art-generator",
-  "version": "1.0.0",
-  "description": "ASCII art generator",
+  "name": "image-decoder",
+  "version": "0.1.0",
+  "description": "image decoder",
   "main": "index.js",
   "type": "module",
   "scripts": {
